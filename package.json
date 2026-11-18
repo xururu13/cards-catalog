@@ -1,0 +1,11 @@
+{
+  "name": "cards-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "yaml": "2.9.1"
+  }
+}
